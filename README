@@ -1,5 +1,4 @@
-Update environment variables in setGrinderEnv.sh file to use your own Grinder and Java paths
-
-Update the the solr.py script with the URL you want to put under load! 
-
-Update the properties file to configure how many concurrent threads you like to execute and how many tests you want to rrun 
+- Download the Grinder tool from http://grinder.sourceforge.net 
+- Update environment variables in setGrinderEnv.sh file to use your Grinder install and Java path
+- Update the the solr.py script with the URL you want to put under load! 
+- Update the properties file to configure how many concurrent threads you like to execute and how many tests you want to rrun 
