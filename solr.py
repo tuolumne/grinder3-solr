@@ -18,7 +18,7 @@ import random
 
 def retrieveWordsFromDictionary():
     words = []
-    dictFile = open('/home/maier/apps/grinder/words.txt','r');
+    dictFile = open('words.txt','r');
     for line in dictFile:
         words.append(line)
     return words
